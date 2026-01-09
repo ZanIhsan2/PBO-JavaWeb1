@@ -1,3 +1,3 @@
 <div class="alert alert-primary" role="alert">
-  Develop by Afriid Ahira Mulya
+  Develop by Razan Muhammad Ihsan R
 </div>
